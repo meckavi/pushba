@@ -1,1 +1,1 @@
-# Instruction for executing the test cased 
+# Instruction for executing the test cases 
